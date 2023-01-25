@@ -12,11 +12,12 @@ My name is Miguel Giraldo and I am a Systems and Computation Engineering Student
 - HTML
 - JavaScript
 - MySQL
+- SQL
 - Solidity
 
 ## Frameworks
 - Springboot
-- Flask
+- React.js
 - Next.js
 
 ## Tools
@@ -24,17 +25,16 @@ My name is Miguel Giraldo and I am a Systems and Computation Engineering Student
 - Unity
 - Visual Studio Code / Community
 - Git
-- Remix
+- Remix (for solidity)
 
 ## Interests
+- Java development
 - Blockchain
 - Videogames development
 - Frontend / Backend development
 - App Development
 
 ## Future Learnings
-- Angular
-- Go
 - Android Studio
 - Unreal Engine
 - AWS
