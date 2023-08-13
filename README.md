@@ -26,6 +26,8 @@ My name is Miguel Giraldo and I am a Systems and Computation Engineering Student
 - Visual Studio Code / Community
 - Git
 - Remix (for solidity)
+- Azue DevOps
+- AWS
 
 ## Interests
 - Java development
@@ -37,7 +39,6 @@ My name is Miguel Giraldo and I am a Systems and Computation Engineering Student
 ## Future Learnings
 - Android Studio
 - Unreal Engine
-- AWS
 
 # Github Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DONMDASH&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
