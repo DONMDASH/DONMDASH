@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 🤝 Greetings
-My name is Miguel Giraldo and I am a Systems and Computation Engineering Student from the University of Quindío.
+Passionate about programming, I define myself as a person eager to learn and a great team player. I am an intelligent and charismatic individual, always striving to maintain a pleasant work environment. I have worked as a Java Full Stack developer, with experience in Spring Boot and AWS. My skills include Java with Spring Boot, Apache Camel, Reactive programming, PostgreSQL, AWS, Azure DevOps, Kubernetes, and Git. I also have basic knowledge in software engineering and business modeling, as well as Python, C#, HTML, CSS, Node.js, React.js, and Angular. Additionally, I have some independent experience in Blockchain, Solidity, smart contracts, and Unity.
 
 # Tecnologies and tools used
 
@@ -14,11 +14,12 @@ My name is Miguel Giraldo and I am a Systems and Computation Engineering Student
 - MySQL
 - SQL
 - Solidity
+- PostgreSQL
 
 ## Frameworks
 - Springboot
 - React.js
-- Next.js
+- Angular
 
 ## Tools
 - Ecplipse
@@ -28,6 +29,7 @@ My name is Miguel Giraldo and I am a Systems and Computation Engineering Student
 - Remix (for solidity)
 - Azue DevOps
 - AWS
+- Kubernetes
 
 ## Interests
 - Java development
